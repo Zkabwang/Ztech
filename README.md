@@ -64,10 +64,7 @@ My website
             <td>2017-Present</td>
             <td>Field Technician Alpha Testing</td>
         </tr>
-
     </tbody>
-    <tfoot>
-    </tfoot>
 </table>
 <hr size='4' noshade>
 <h3>Skills</h3>
@@ -89,7 +86,6 @@ My website
                      <td> &#x1F4C7; &#x1F4C7;</td>
                  </tr>
              </table>
-        </td>
         <td>
             <table>
                 <tr>
@@ -111,12 +107,8 @@ My website
                     <td>Vue.js</td>
                     <td>&#x1F4CA; &#x1F4CA;</td>
                  </tr>
-
              </table>
         </td>
-    </tr>
-</table>
-
 <hr size='4' noshade> 
 <a href="https://ztech144.pythonanywhere.com/">Contact Moi  &#x1F4F3;</a>
 <hr size='4' noshade> 
