@@ -12,14 +12,9 @@ My website
     <center>
         <h1>Welcome to Jonathan's Website</h1>
     </center>
-    <table cellspacing="20">
-        <tr>
-            <td><img src="image/jonathan2.jpg" alt="Jonathan's profile picture"></td>
             <p><em>Founder of <strong><a href="https://ztech144.pythonanywhere.com/">The Creatorz App</a></strong>.</em</p>
-        </tr>
-    </table>
 <hr size='4' noshade>
-<h1>Who is Jonathan Kabwang?</h1>.
+<h1>Who is Jonathan Kabwang?</h1>
 <p>I am Web Developer and iOS, I Love &#x1F3B5; and I produce<br>
     for Next Muzik Instrumentals and the Detroit Motown Funks</p>
     <img src="image/MTF1.jpg" alt="Jonathan's profile picture">
