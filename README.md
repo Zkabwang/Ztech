@@ -73,8 +73,6 @@ My website
 <hr size='4' noshade>
 <h3>Skills</h3>
 <table cellspacing="10">
-    <tr>
-        <td>
             <table>
                 <tr>
                     <td>Web Development</td>
