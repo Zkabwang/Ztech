@@ -16,7 +16,6 @@ My website
         <tr>
             <td><img src="image/jonathan2.jpg" alt="Jonathan's profile picture"></td>
             <p><em>Founder of <strong><a href="https://ztech144.pythonanywhere.com/">The Creatorz App</a></strong>.</em</p>
-
         </tr>
     </table>
 <hr size='4' noshade>
