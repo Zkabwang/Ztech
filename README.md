@@ -26,12 +26,11 @@ My website
     <img src="image/MTF1.jpg" alt="Jonathan's profile picture">
 
 <hr size='4' noshade> 
-<h3>High School & College</h3>
+<h3>Education</h3>
 <ul>
     <li>Jack E. Singley Academy in Irving, Tx</li>
     <li>North Lake College Irving, Tx</li>
     <li>Devry University Irving, Tx</li>
-
 </ul>
 <hr size='4' noshade>
 <h3>My Hobbies</h3>
@@ -46,7 +45,7 @@ My website
     <thead>
         <tr>
             <th>Dates</th>
-            <th>Work/Schools</th>
+            <th>Work</th>
         </tr>
     </thead>
     <tbody>
@@ -55,19 +54,11 @@ My website
             <td>Package Handler at Fedex Ground</td>
         </tr>
         <tr>
-            <td>2010-2014</td>
-            <td>North Lake Community College</td>
-        </tr>
-        <tr>
             <td>2011-2012</td>
             <td>Maintenance Department at Office Depot</td>
         </tr>
             <td>2013-2016</td>
             <td>Customer Service Agent at SiriusXm Connect Vehicle Services</td>
-        </tr>
-        <tr>
-            <td>2014-2016</td>
-            <td>ITT Tech Institue/Devry University</td>
         </tr>
         <tr>
         <tr>
