@@ -65,14 +65,7 @@
                     <h1>Who is Jonathan Kabwang?</h1>
                 </center>
             </div>
-            <div id="firstVid">
-
-                <video src="Videos/cole.mp4" poster="firstconcert.png" width="300" height="100" controls autoplay>Oops
-                    too
-                    big</video>
-
-
-            </div>
+   
 
             <div id="intro">
                 <p>I am Web Developer and iOS, I Love &#x1F3B5; and I produce<br>
