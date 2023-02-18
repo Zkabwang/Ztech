@@ -11,7 +11,7 @@
 
 <style>
         #background {
-            background-color: rgb(17, 0, 255);
+            background-color: rgba(8, 30, 99, 0.856);
         }
         hr {
             background-color: red;
