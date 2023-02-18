@@ -10,96 +10,70 @@
   
 
 <style>
-     #background {
+           #background{
             background-color: rgba(8, 30, 99, 0.856);
         }
-hr {
-        hr {
+        h1{
     background-color: red;
-            background-color: red;
-    border-style: dotted;
-            border-style: dotted;
+    border-style: dotted black;
 }
-        }
-#Web {
-
-    padding-top: 2%;
-        body {
-}
+ 
+        body{
             background-color: lightblue;
-#app {
-        }
+    }
+#app{
     padding-left: 40%;
 
 }
-        #Web {
-#jon {
+        #Web{
             padding-top: 2%;
+    }
+#jon{
     padding-left: 0%;
         }
 }
 
-#intro {
-        #app {
+#intro{
     padding-left: 35%;
-            padding-left: 40%;
+            
 }
         }
-#photo {
-
+#photo{
     padding-left: 45%;
-        #jon {
     width: 80px;
-            padding-left: 0%;
-}
-        }
-#intro2: {
+    }
+#intro2{
 
     padding-left: 10%;
-        #intro {
     color: aqua;
-            padding-left: 35%;
-}
-        }
-#intro3: {
-
+    }
+#intro3{
     color: aqua;
-        #photo {
     padding-left: 20%;
-            padding-left: 45%;
-}
-            width: 80px;
-#intro4: {
-        }
+    }
+           
+#intro4{
     color: aqua;
-
     padding-left: 40%;
-        #intro2 {
-}
-            padding-left: 10%;
-#intro5: {
         }
+    
+    
+#intro5{
     color: aqua;
-
     padding-left: 50%;
-        #intro3 {
-}
-            padding-left: 20%;
-#intro6 {
-        }
-    padding-left: 40%;
-
-}
-        #intro4 {
-#music {
-            padding-left: 40%;
+    }
+            
+#intro6{
     padding-left: 40%;
         }
+#music{
+       padding-left: 40%;
 }
 
-#skills {
-        #intro5 {
-    padding-left: 40%;
+    #skills{
+        padding-left: 40%;
+    }
+        #intro5{
             padding-left: 50%;
 }
         
