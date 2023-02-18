@@ -46,7 +46,58 @@
         crossorigin="anonymous"></script>
 
 
+<style>
+        #background {
+            background-color: rgb(17, 0, 255);
+        }
 
+        hr {
+            background-color: red;
+            border-style: dotted;
+        }
+
+        body {
+            background-color: lightblue;
+        }
+
+        #Web {
+            padding-top: 2%;
+        }
+
+        #app {
+            padding-left: 40%;
+        }
+
+        #jon {
+            padding-left: 0%;
+        }
+
+        #intro {
+            padding-left: 35%;
+        }
+
+        #photo {
+            padding-left: 45%;
+            width: 80px;
+        }
+
+        #intro2 {
+            padding-left: 10%;
+        }
+
+        #intro3 {
+            padding-left: 20%;
+        }
+
+        #intro4 {
+            padding-left: 40%;
+        }
+
+        #intro5 {
+            padding-left: 50%;
+        }
+
+    </style>
 
 </head>
 
@@ -65,7 +116,7 @@
                     <h1>Who is Jonathan Kabwang?</h1>
                 </center>
             </div>
-   
+      
 
             <div id="intro">
                 <p>I am Web Developer and iOS, I Love &#x1F3B5; and I produce<br>
