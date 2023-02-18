@@ -7,7 +7,47 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/styles.css">
     <title>Ztech</title>
-    <style>
+  
+
+<style>
+        #background {
+            background-color: rgb(17, 0, 255);
+        }
+        hr {
+            background-color: red;
+            border-style: dotted;
+        }
+        body {
+            background-color: lightblue;
+        }
+        #Web {
+            padding-top: 2%;
+        }
+        #app {
+            padding-left: 40%;
+        }
+        #jon {
+            padding-left: 0%;
+        }
+        #intro {
+            padding-left: 35%;
+        }
+        #photo {
+            padding-left: 45%;
+            width: 80px;
+        }
+        #intro2 {
+            padding-left: 10%;
+        }
+        #intro3 {
+            padding-left: 20%;
+        }
+        #intro4 {
+            padding-left: 40%;
+        }
+        #intro5 {
+            padding-left: 50%;
+        }
     </style>
 
     <!--JQUERY -->
@@ -44,60 +84,6 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.min.js"
         integrity="sha384-kjU+l4N0Yf4ZOJErLsIcvOU2qSb74wXpOhqTvwVx3OElZRweTnQ6d31fXEoRD1Jy"
         crossorigin="anonymous"></script>
-
-
-<style>
-        #background {
-            background-color: rgb(17, 0, 255);
-        }
-
-        hr {
-            background-color: red;
-            border-style: dotted;
-        }
-
-        body {
-            background-color: lightblue;
-        }
-
-        #Web {
-            padding-top: 2%;
-        }
-
-        #app {
-            padding-left: 40%;
-        }
-
-        #jon {
-            padding-left: 0%;
-        }
-
-        #intro {
-            padding-left: 35%;
-        }
-
-        #photo {
-            padding-left: 45%;
-            width: 80px;
-        }
-
-        #intro2 {
-            padding-left: 10%;
-        }
-
-        #intro3 {
-            padding-left: 20%;
-        }
-
-        #intro4 {
-            padding-left: 40%;
-        }
-
-        #intro5 {
-            padding-left: 50%;
-        }
-
-    </style>
 
 </head>
 
